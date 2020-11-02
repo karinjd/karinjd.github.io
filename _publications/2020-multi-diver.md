@@ -3,7 +3,7 @@ title: "Realtime Multi-Diver Tracking and Re-identification for Underwater Human
 collection: publications
 permalink: /publication/2020-multi-diver
 excerpt: 'Using tracking by detection to uniquely identify divers in real time.'
-date: 2020
+date: 2020-06-01
 venue: 'International Conference on Robotics and Automation'
 paperurl: 'http://academicpages.github.io/files/multidiver.pdf'
 ---
