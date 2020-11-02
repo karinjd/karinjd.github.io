@@ -11,36 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Cognitive Science and Linguistics, Pomona College, 2015
+* Ph.D in Computer Science, University of Minnesota, 2023 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PhD Candidate, Interactive Robotics and Vision Lab, University of Minnnesota
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Work experience
+======
+* Software Engineer, 2015 - 2018
+  * Originate Inc., San Francisco
+  * Web developer working in Node.js, Ruby on Rails
+  * Mobile developer working in iOS with Swift and Objective C
+  
   
 Talks
 ======
@@ -56,4 +47,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Current
+  * Science for All
+  * Lab Ambassador, Computer Science Graduation Student Council
+* Past
+  * Industry Ambassador, UC Berkeley CS Scholars
+  * Mentor, WISE
