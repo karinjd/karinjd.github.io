@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Karin de Langis"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
