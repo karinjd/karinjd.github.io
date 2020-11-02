@@ -23,4 +23,5 @@ In undergrad I majored in Cognitive Science and Linguistics at Pomona College. D
   * At the Cognitive Agent Lab at Pomona College I helped out with projects investigating tip of the tongue states: those moments when you *know* what word you want to say, but you can't remember what it is. This research investigated lexical phonological activation in older adults.
   * I spent a summer at the Language Processing Lab at Pomona College working on psycholinguistic processing of garden path sentences, which involved learning how to use an eye tracker to analyze how long people focus on individual words while reading. 
   * I spent a summer Schachter Memory Lab at Harvard University assisting in projects that investigated the effect of testing during online learning and the link between remembering the past and imaging the future. 
+  
 I wrote my undergraduate thesis on the cognitive overlap between anxiety and mind wandering. 
