@@ -27,4 +27,4 @@ applying multi-person tracking to on-board autonomous robot
 operations, and we consider how failure cases can be addressed
 during on-board tracking.
 
-[Download paper here](http://academicpages.github.io/files/multidiver.pdf)
+[Download paper here](http://karinjd.github.io/files/multidiver.pdf)
