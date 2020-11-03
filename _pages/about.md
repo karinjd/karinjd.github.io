@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Interactive Robotics and Vision Laboratory](http://irvlab.cs.umn.edu/) at the University of Minnesota, advised by Dr. Junaed Sattar.
+I am a PhD candidate in the [Interactive Robotics and Vision Laboratory](http://irvlab.cs.umn.edu/) at the University of Minnesota, advised by [Dr. Junaed Sattar](https://junaedsattar.cs.umn.edu/).
 
 ## Research Interests
 I have research experience in both cognitive science and computer science, and I'm interested in bridging these two areas of study to create cognitive systems for intelligent agents. I love questions like "How do humans cognitively represent risk, and can intelligent agents mimic this representation?" and "How can an intelligent agent communicate with humans in ways that enhance human's natural decision making processes?" I believe a cognitively grounded approach to artificial intelligenece has the potential to unlock more intuitive and explainable intelligent systems.
