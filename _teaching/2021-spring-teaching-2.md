@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "CSCI 1133 Instructor"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2021-spring-teaching-1

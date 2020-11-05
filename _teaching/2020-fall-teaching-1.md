@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: "CSCI 5551 TA"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-fall-teaching-1
