@@ -8,4 +8,4 @@ date: 2021-01-01
 location: "Minneapolis, MN"
 ---
 
-I will be the instructor for CSCI 1133: Introduction to Computing and Programming Concepts in Spring 2021.
+I taught CSCI 1133: Introduction to Computing and Programming Concepts in Spring 2021.
