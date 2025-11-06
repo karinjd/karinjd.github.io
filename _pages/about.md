@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Interactive Robotics and Vision Laboratory](http://irvlab.cs.umn.edu/) at the University of Minnesota, advised by [Dr. Dongyeop Kang](https://junaedsattar.cs.umn.edu/) and [Dr. Stephen J Guy](https://www-users.cse.umn.edu/~sjguy/).
+I am a PhD candidate in the [NLP Group](https://minnesotanlp.github.io/) at the University of Minnesota, advised by [Dr. Dongyeop Kang](https://https://dykang.github.io/) and [Dr. Stephen J Guy](https://www-users.cse.umn.edu/~sjguy/).
 
 ## Research Interests
-I have research experience in both cognitive science and computer science, and I'm interested in bridging these two areas of study to create cognitive systems for intelligent agents. My current work involves incorporating eye tracking signals into the training and evaluation process of various natural language processing models. I believe a cognitively grounded approach to artificial intelligenece has the potential to unlock more intuitive and explainable intelligent systems.
+I work at the intersection of cognitive science and natural language processing. 
 
-I belong to the [NLP Group](http://cs-u-ada.cs.umn.edu/) at the University of Minnesota.
+Recently, one of my main research interests is in decomposing large language model behavior into functional cognitive components, analogous to well-understood human cognitive processes such as working memory and inhibitory control. I am also interested in assessing large language model comprehension in narratives designed to produce psychological effects. My ultimate goal is to understand any influences that lower-level cognitive process in LLMs have on higher-level processes like comprehension.
+
+My other main research interest is in human cognitive dynamics and whether we can better align LLMs to how people plan, decompose complex tasks, and reason. To better understand human cognition in specific tasks, my colleagues and I have so far explored incorporating cognitive signals into annotations via eye tracking, discrete reading behaviors, and tracking longitudinal work across hierarchical subtasks.
